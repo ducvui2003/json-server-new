@@ -1,9 +1,837 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "news": [
+    {
+      "author": "Joel Khalili",
+      "title": "What’s Behind the Bitcoin Price Surge? Vibes, Mostly",
+      "shortDescription": "The price of bitcoin has climbed to a new all-time high. But assigning the cryptocurrency a value is anything but trivial.",
+      "source": "https://www.wired.com/story/bitcoin-price-record-economics/",
+      "thumbnail": "https://media.wired.com/photos/65ef46042ca08b0e59a9682f/191:100/w_1280,c_limit/031124-business-bitcoin-economics.jpg",
+      "createAt": "2024-03-12T18:13:56Z",
+      "content": "BITCOIN FEVER HAS returned. On March 5, the price of the cryptocurrency swelled to a record high—and has continued its upward march. In 2024 it has provided investors with a greater return than almost any other asset. But as enthusiasm for bitcoin spreads anew, so do myths and confusion around the forces moving the price.\n\nIn the last month alone, the price of bitcoin has risen by almost 70 percent. The surge has been celebrated in crypto circles as an inevitable return to form—the fun part of a predictable boom-and-bust cycle.\n\nThe phrases “number go up” and “it’s just math” have long been adopted as tongue-in-cheek mantras by crypto believers and ironic insults by its skeptics. Yet they capture a belief among hardliners that the economic architecture of the Bitcoin system—whereby a fixed supply of 21 million coins and predetermined schedule of release is hardcoded into the software—will inevitably propel the price upwards over time. They see scarcity as an antidote to runaway inflation of traditional currencies, which deteriorate in value, and unsustainable levels of debt taken on by governments across the globe.",
+      "id": "WAhgSDs",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "bbcnews",
+      "title": "Woman found with £2bn in Bitcoin convicted",
+      "shortDescription": "Jian Wen, 42, from north London, was involved in converting Bitcoin into assets like luxury houses.",
+      "source": "https://www.bbc.co.uk/news/uk-england-london-68620253",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/17FE5/production/_132977289_wen2.jpg",
+      "createAt": "2024-03-20T17:50:49Z",
+      "content": "A former takeaway worker found with Bitcoin worth more than £2bn has been convicted at Southwark Crown Court of a crime linked to money laundering.\n\nJian Wen, 42, from Hendon in north London, was involved in converting the currency into assets including multi-million-pound houses and jewellery.\n\nOn Monday she was convicted of entering into or becoming concerned in a money laundering arrangement.\n\nThe Met said the seizure is the largest of its kind in the UK.\n\nAlthough Wen was living in a flat above a Chinese restaurant in Leeds when she became involved in the criminal activity, her new lifestyle saw her move into a six-bedroom house in north London in 2017 which was rented for more than £17,000 per month.\n\nShe posed as an employee of an international jewellery business and moved her son to the UK to attend private school, the Crown Prosecution Service (CPS) said.\n\nThat same year, Wen tried to buy a string of expensive houses in London, but struggled to pass money-laundering checks and her claims she had earned millions legitimately mining Bitcoin were not believed.\n\nShe later travelled abroad, buying jewellery worth tens of thousands of pounds in Zurich, and purchasing properties in Dubai in 2019.\n\nAnother suspect is thought to be behind the fraud but they remain at large.",
+      "id": "LuL2O8e",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Ashley Belanger",
+      "title": "Bitcoin price hits record $69K after SEC approvals fueled $7B in investments",
+      "shortDescription": "SEC chair warns bitcoin is still \"volatile\" and linked to \"illicit activity.\"",
+      "source": "https://arstechnica.com/tech-policy/2024/03/bitcoin-price-hits-record-69k-after-sec-approvals-fueled-7b-in-investments/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1872368024-760x380.jpg",
+      "createAt": "2024-03-05T19:07:13Z",
+      "content": "Bitcoin's price hit a record high Tuesday, surging above $69,000 and notching past its prior peak price of $68,991.85 recorded in 2021.\n\nAfter bitcoin's price sunk in 2022 amid a cryptocurrency industry crash, bitcoin's comeback began in early 2023, Bloomberg reported. But this week's record price owes a lot to the US Securities and Exchange Commission (SEC) approving spot-bitcoin exchange-traded funds (ETFs) in early January, which funneled more than $7 billion into various bitcoin investment products in less than two months, The New York Times reported.\n\nThese ETFs are offered by trusted financial institutions like BlackRock and Fidelity, making it more enticing for the crypto-curious to invest in bitcoin without owning any of the cryptocurrency or understanding any of the associated technology. Instead, they can just buy shares of a collection of digital assets with SEC-required protections against fraud or manipulation.\n\n“Traditional institutions were once sitting out; today, they are here in full force as the principal drivers of the crypto bull market,” Nathan McCauley, CEO and co-founder of Anchorage Digital, told Bloomberg.",
+      "id": "9dQArJ2",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Ashley Belanger",
+      "title": "Bitcoin Fog operator convicted of laundering $400M in bitcoins on darknet",
+      "shortDescription": "Roman Sterlingov will appeal, denouncing DOJ's crypto-tracing techniques.",
+      "source": "https://arstechnica.com/tech-policy/2024/03/bitcoin-fog-operator-convicted-of-laundering-400m-in-bitcoins-on-darknet/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1240726120-760x380.jpg",
+      "createAt": "2024-03-13T20:34:08Z",
+      "content": "Bitcoin's price hit a record high Tuesday, surging above $69,000 and notching past its prior peak price of $68,991.85 recorded in 2021.\n\nAfter bitcoin's price sunk in 2022 amid a cryptocurrency industry crash, bitcoin's comeback began in early 2023, Bloomberg reported. But this week's record price owes a lot to the US Securities and Exchange Commission (SEC) approving spot-bitcoin exchange-traded funds (ETFs) in early January, which funneled more than $7 billion into various bitcoin investment products in less than two months, The New York Times reported.\n\nThese ETFs are offered by trusted financial institutions like BlackRock and Fidelity, making it more enticing for the crypto-curious to invest in bitcoin without owning any of the cryptocurrency or understanding any of the associated technology. Instead, they can just buy shares of a collection of digital assets with SEC-required protections against fraud or manipulation.\n\n“Traditional institutions were once sitting out; today, they are here in full force as the principal drivers of the crypto bull market,” Nathan McCauley, CEO and co-founder of Anchorage Digital, told Bloomberg.\n\nInvestors already have varied options when choosing between ETFs. According to Coindesk, 11 spot bitcoin ETFs \"amassed more than 192,000 bitcoin in holdings\" in the month after SEC approvals, on top of 420,000 in holdings owned by Grayscale and nearly 200,000 owned by MicroStrategy, Business Insider reported.\n\nThis spares investors risks associated with cryptocurrency exchanges mired by 2022 scandals and bankruptcies, from FTX's collapse, which led to prison time for co-founder Sam Bankman-Fried, to the SEC's larger crackdown on exchanges like Coinbase and Binance.",
+      "id": "TTmzpjT",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "David Gura",
+      "title": "Bitcoin hits a record high. Here are 4 things to know about this spectacular rally",
+      "shortDescription": "Bitcoin hit a record high, marking a remarkable comeback from a period known as the \"crypto winter.\" A big catalyst behind the gains has been the approval of new bitcoin investment funds.",
+      "source": "https://www.npr.org/2024/03/05/1235865112/bitcoin-record-high-rally-crypto-sec-etf",
+      "thumbnail": "https://media.npr.org/assets/img/2024/03/04/gettyimages-19217562081_wide-eba7c909ba5e0cb64e10c0f882f70414cf0a5847-s1400-c100.jpg",
+      "createAt": "2024-03-05T18:38:02Z",
+      "content": "In two words: bitcoin ETFs.\n\nBack in January, the Securities and Exchange Commission reluctantly gave the go-ahead to almost a dozen exchange-traded funds, or ETFs, that track the price of bitcoin.\n\nETFs are popular investment funds that track the prices of assets or indices, like a stock index or government bond index, for example.\n\nThe approval potentially allows millions of investors to invest into bitcoin without having to own it directly.\n\nAccording to Bryan Armour, the director of passive strategies research for North America at Morningstar, these bitcoin ETFs had a \"rocky performance out of the gate.\"\n\nBut since then, \"it's been clear skies and smooth sailing\" he says. Billions of dollars have flowed into these funds.Markets more widely have also been doing well. All three major stock indexes for example, including the Dow Jones Industrial Average, have hit record highs recently.\n\nWall Street is hopeful Federal Reserve policymakers will soon feel comfortable enough with the progress they've made fighting high inflation to start lowering interest rates — and that's made investors more comfortable buying riskier assets.",
+      "id": "37VCtHU",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Radek Zielinski",
+      "title": "World’s top pension fund eyes Bitcoin",
+      "shortDescription": "Japan’s Government Pension Investment Fund (GPIF) is considering Bitcoin (BTC) as a potential investment diversification tool amidst economic and technological… Continue reading World’s top pension fund eyes Bitcoin\nThe post World’s top pension fund eyes Bitc…",
+      "source": "https://readwrite.com/worlds-top-pension-fund-eyes-bitcoin/",
+      "thumbnail": "https://readwrite.com/wp-content/uploads/2024/03/Japanese-investors.png",
+      "createAt": "2024-03-19T14:13:51Z",
+      "content": "Japan’s Government Pension Investment Fund (GPIF) is considering Bitcoin (BTC) as a potential investment diversification tool amidst economic and technological changes.\r\nAccording to a Mar. 19 announ… [+2534 chars]",
+      "id": "AEuIzOT",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Ali Rees",
+      "title": "Why did the Bitcoin price drop?",
+      "shortDescription": "Despite reaching record highs of almost $74,000 on Thursday (March 14), the price of Bitcoin (BTC) dropped by 9% early… Continue reading Why did the Bitcoin price drop?\nThe post Why did the Bitcoin price drop? appeared first on ReadWrite.",
+      "source": "https://readwrite.com/why-did-bitcoin-drop/",
+      "thumbnail": "https://readwrite.com/wp-content/uploads/2024/03/a_chart_showing_bitcoin_rising_a_lot_then_droppi.jpg",
+      "createAt": "2024-03-15T12:38:50Z",
+      "content": "Despite reaching record highs of almost $74,000 on Thursday (March 14), the price of Bitcoin (BTC) dropped by 9% early on Friday (March 15) to $66, 885.\r\nMany cryptocurrency traders will likely sell … [+2274 chars]",
+      "id": "erJS2FA",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "prosen@insider.com (Phil Rosen)",
+      "title": "El Salvador's millennial crypto-loving president says the country's bitcoin holdings are up more than 40%",
+      "shortDescription": "Nayib Bukele said if El Salvador sold all of the bitcoin in its coffers today, it would bank roughly $41.6 million in profit.",
+      "source": "https://markets.businessinsider.com/news/currencies/bitcoin-price-el-salvador-millennial-president-bukele-investment-cryptocurrency-finance-2024-2",
+      "thumbnail": "https://i.insider.com/65df846290413ab8e1d796e4?width=1200&format=jpeg",
+      "createAt": "2024-02-29T12:46:09Z",
+      "content": "President Nayib Bukele said El Salvador won't sell its bitcoin investment.\r\nEmerson Flores/APHOTOGRAFIA/Getty Images\r\nEl Salvador is up big on its bitcoin bet, according to its millennial president N… [+2026 chars]",
+      "id": "YlPLHar",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "prosen@insider.com (Phil Rosen)",
+      "title": "Why crypto is surging back to all-time highs and shrugging off high interest rates",
+      "shortDescription": "Bitcoin suffered during the Fed's tightening cycle, but is rallying once again as a supply-demand imbalance offsets rate pressures.",
+      "source": "https://markets.businessinsider.com/news/currencies/bitcoin-price-outlook-explained-cryptocurrency-record-high-interest-rates-fed-2024-3",
+      "thumbnail": "https://i.insider.com/65e603d790413ab8e1d8e646?width=1200&format=jpeg",
+      "createAt": "2024-03-04T18:47:06Z",
+      "content": "Bitcoin is in the midst of a prolonged rebound back to levels last seen when interest rates were near zero and pixelated artwork was regularly selling for millions. \r\nOn Monday, bitcoin spiked more t… [+3350 chars]",
+      "id": "wlj-dHp",
+      "category": [
+        "Bitcoin"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "BBC News",
+      "title": "Leaders demand Avanti lose West Coast franchise",
+      "shortDescription": "Northern business, transport and political leaders say action \"must be taken\" immediately.",
+      "url": "https://www.bbc.co.uk/news/uk-england-manchester-68619205",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/03F3/production/_131511010_avanti_pa.jpg",
+      "createAt": "2024-03-20T15:40:01Z",
+      "content": "Rail operator Avanti West Coast (AWC) should be stripped of its contract \"at the earliest possible opportunity\", according to Transport for the North.\r\nThe lobbying group represents leaders from tran… [+3127 chars]",
+      "id": "weq-dad",
+      "category": [
+        "Business"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Emmanuel Akinwotu",
+      "title": "The Booming Business of Kidnapping in Nigeria",
+      "description": "Islamic insurgents and other heavily armed groups have increasingly turned to kidnapping to get money. They abduct individuals, families and even large groups and then demand to be paid to let them go. We hear the story of one family, whose life has been turn…",
+      "url": "https://www.npr.org/2024/03/25/1196979973/the-booming-business-of-kidnapping-in-nigeria",
+      "thumbnail": "https://media.npr.org/assets/img/2024/03/25/_dsc8122_wide-7b8f39ac9c5c8f464d19f89e03684ace975b375f-s1400-c100.jpg",
+      "createAt": "2024-03-25T22:10:21Z",
+      "content": "Community members gathered to discuss the events surrounding the kidnappings in their community at The Kawu District Palace which represents the seat of authority in the Kawu (spelled Kau on google m… [+129 chars]",
+      "id": "weq-asd",
+      "category": [
+        "Business"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Matt Novak",
+      "title": "The Feds Are Reportedly Investigating Ethereum Foundation",
+      "shortDescription": "The U.S. Securities and Exchange Commission (SEC) is investigating the Ethereum Foundation and companies doing business with the nonprofit, according to a new report from Fortune Wednesday. And that’s very bad news for crypto enthusiasts who were hopeful that…",
+      "url": "https://gizmodo.com/sec-ethereum-price-bitcoin-investigation-crypto-etf-1851352576",
+      "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b5adaa02e058acea54ab69fa505844cc.jpg",
+      "createAt": "2024-03-20T18:15:00Z",
+      "content": "The U.S. Securities and Exchange Commission (SEC) is investigating the Ethereum Foundation and companies doing business with the nonprofit, according to a new report from Fortune Wednesday. And thats… [+2397 chars]",
+      "id": "w1q-asd",
+      "category": [
+        "Business"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Maxwell Zeff",
+      "title": "All Signs Point to Apple TV+ Getting Ads",
+      "shortDescription": "Apple TV+ is the last major streaming service that doesn’t have an ad-supported tier, but that seems poised to change. Apple just hired a 14-year ad executive from NBCUniversal, Joseph Cady, to further beef up its growing video advertising team, according to …",
+      "url": "https://gizmodo.com/all-signs-point-apple-tv-plus-getting-ads-1851326356",
+      "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/914d7ecd1b21baf0b03440017c7e5f03.jpg",
+      "createAt": "2024-03-11T20:30:00Z",
+      "content": "Apple TV+ is the last major streaming service that doesnt have an ad-supported tier, but that seems poised to change. Apple just hired a 14-year ad executive from NBCUniversal, Joseph Cady, to furthe… [+2498 chars]",
+      "id": "w1q-23d",
+      "category": [
+        "Business"
+      ],
+      "viewCount": 0
+    },
+    {
+      "author": "Emilia David",
+      "title": "Kayak’s new AI features will let users double-check flights with a screenshot",
+      "shortDescription": "Kayak’s new AI features will let travelers ask a chatbot questions while travel planning and double-check if flights they find elsewhere are the cheapest options.",
+      "source": "https://www.theverge.com/2024/3/5/24090945/kayak-ai-chatbot-travel-chatgpt",
+      "thumbnail": "https://cdn.vox-cdn.com/thumbor/pfq0TWl_P9f0DjxCbWmQk184U34=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/16019274/acastro_181017_1777_brain_ai_0003.jpg",
+      "createAt": "2024-03-05T15:18:30Z",
+      "content": "Kayaks new AI features will let users double-check flights with a screenshot\r\nKayaks new AI features will let users double-check flights with a screenshot\r\n / Travelers can also ask a chatbot for tra… [+2770 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "LHtAcfn"
+    },
+    {
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Children 'let down' by dropped transport changes",
+      "shortDescription": "Plans to reduce the distance children travel before they can get free transport have been scrapped.",
+      "source": "https://www.bbc.co.uk/news/uk-wales-68573899",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/12951/production/_132931167_gettyimages-177262711.jpg",
+      "createAt": "2024-03-15T10:33:43Z",
+      "content": "Children are being \"let down\" by a decision not to change school transport laws, the Children's Commissioner for Wales has said.\r\nCouncils have to provide free transport if pupils live three miles (4… [+1948 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "gqemSON"
+    },
+    {
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Shapps abandoned Ukraine trip over security - MoD",
+      "shortDescription": "The defence secretary was warned the Kremlin was aware of his travel plans, reports say.",
+      "source": "https://www.bbc.co.uk/news/uk-68589866",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/EAB4/production/_132948006_capture.png",
+      "createAt": "2024-03-17T02:18:52Z",
+      "content": "Grant Shapps aborted a trip to southern Ukraine last week for \"security reasons\", the UK defence ministry said.\r\nThe defence secretary had to scrap his visit to Odesa last week after UK intelligence … [+1488 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "bd44pi4"
+    },
+    {
+      "author": "Sabina Graves",
+      "title": "Loungefly's New Star Wars and Marvel Gear Brings Out Your Travel Nerd",
+      "shortDescription": "Get jet-set and travel with Loungefly’s latest accessory line Collectiv. Featuring Star Wars and Marvel’s Loki, this new assortment of backpacks and luggage highlights fandom with a subtle edge, featuring emblems on brand with the spirit of the God of Stories…",
+      "source": "https://gizmodo.com/loungefly-new-marvel-star-wars-collectiv-travel-gear-1851321687",
+      "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/31c698dab5b15de7d7ae30526f3d3fa8.jpg",
+      "createAt": "2024-03-11T16:00:00Z",
+      "content": "Get jet-set and travel with Loungeflys latest accessory line Collectiv. Featuring Star Wars and MarvelsLoki, this new assortment of backpacks and luggage highlights fandom with a subtle edge, featuri… [+244 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "fkOxqFI"
+    },
+    {
+      "author": "Artem Golub and Passant Rabie",
+      "title": "How Isolation Plays a Role in Space Exploration",
+      "shortDescription": "Former NASA Astronaut Cady Coleman talks to Gizmodo on the psychological aspect of space travel. Space: The Longest Goodbye is streaming now.",
+      "source": "https://gizmodo.com/how-isolation-plays-a-role-in-space-exploration-1851329372",
+      "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e79d73e6dba1afa03af9ca5a5cf64ede.jpg",
+      "createAt": "2024-03-12T19:45:00Z",
+      "content": "Former NASA Astronaut Cady Coleman talks to Gizmodo on the psychological aspect of space travel. Space: The Longest Goodbye is streaming now.",
+      "category": [
+        "travel"
+      ],
+      "id": "XGrMUNC"
+    },
+    {
+      "author": "Passant Rabie",
+      "title": "That Michelin Star Meal in Space Is a Lie",
+      "shortDescription": "Space tourism has unlocked a new brand of luxury travel, one which promises expensive meals and designer flight suits with views of Earth’s curvature as a backdrop. A Florida-based startup is offering six passengers the chance to ride on board its balloon-pro…",
+      "source": "https://gizmodo.com/that-michelin-star-meal-in-space-is-a-lie-1851345921",
+      "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/f5b9c8bc4a6feae20287131f6e2bcc8e.jpg",
+      "createAt": "2024-03-18T21:01:00Z",
+      "content": "Space tourism has unlocked a new brand of luxury travel, one which promises expensive meals and designer flight suits with views of Earths curvature as a backdrop. A Florida-based startup is offering… [+3014 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "jtkKYVf"
+    },
+    {
+      "author": "Eric Berger",
+      "title": "It’s a few years late, but a prototype supersonic airplane has taken flight",
+      "shortDescription": "\"This milestone will be invaluable to Boom’s revival of supersonic travel.\"",
+      "source": "https://arstechnica.com/space/2024/03/its-a-few-years-late-but-a-prototype-supersonic-airplane-has-taken-flight/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/HS408416-1-1440x960-1-760x380.jpg",
+      "createAt": "2024-03-22T21:44:44Z",
+      "content": "Enlarge/ XB-1 takes off on its inaugural flight.\r\n3\r\nA prototype jet independently developed by Boom Supersonic made its first flight on Friday, the company said.\r\nThe XB-1 vehicle flew from Mojave A… [+2408 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "Syvbj2n"
+    },
+    {
+      "author": "Paul McNally",
+      "title": "How to Fast Travel in FF7 Rebirth",
+      "shortDescription": "Do you remember when Fast Travel in games wasn’t a thing, and you would spend hours wandering barren scenery between […]\nThe post How to Fast Travel in FF7 Rebirth appeared first on ReadWrite.",
+      "source": "https://readwrite.com/how-to-fast-travel-in-ff7-rebirth/",
+      "thumbnail": "https://readwrite.com/wp-content/uploads/2024/02/ff7_chocobo.jpg",
+      "createAt": "2024-02-29T10:13:40Z",
+      "content": "Do you remember when Fast Travel in games wasnt a thing, and you would spend hours wandering barren scenery between locations with very little to do? It even spawned a whole new generation of walking… [+1541 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "PvCA2Sj"
+    },
+    {
+      "author": "Hannah Getahun",
+      "title": "Ayo Edebiri respects the rules of time travel",
+      "shortDescription": "When asked what she might tell her younger self, SAG Award winner Ayo Edebiri explained why she would avoid causing a disastrous paradox.",
+      "source": "https://www.businessinsider.com/ayo-edebiri-sag-awards-time-travel-tenet-interview-2024-2",
+      "thumbnail": "https://i.insider.com/65de9cf390413ab8e1d7516e?width=1200&format=jpeg",
+      "createAt": "2024-02-28T03:38:19Z",
+      "content": "Ayo Edebiri poses at the 30th Annual Screen Actors Guild Awards at Shrine Auditorium and Expo Hall in Los Angeles, California.Steve Granitz/FilmMagic\r\n<ul><li>Ayo Edebiri would not speak to herself w… [+2355 chars]",
+      "category": [
+        "travel"
+      ],
+      "id": "_XdLBPj"
+    },
+    {
+      "author": "charliewacholz@gmail.com (Charlie Wacholz)",
+      "title": "Apple Vision Pro vs Meta Quest Pro: Which premium headset should you buy?",
+      "shortDescription": "Apple Vision Pro and Meta Quest Pro aren't your everyday VR headsets. Geared towards lifestyle and productivity, but which mixed-reality headset is right for you?",
+      "source": "https://www.androidcentral.com/gaming/virtual-reality/apple-vision-pro-vs-meta-quest-pro",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/q6FfCT6SYSXTUrdxUGM2aJ-1200-80.jpg",
+      "createAt": "2024-03-11T22:04:57Z",
+      "content": "Both the Apple Vision Pro and the Meta Quest Pro represent the beginning of a new era for VR, AR, and MR hardware and experiences. Where other headsets like the Meta Quest 3, PS VR2, or Valve Index l… [+13742 chars]",
+      "category": [
+        1
+      ],
+      "id": "oQHW4u1"
+    },
+    {
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Meghan launches surprise new lifestyle brand",
+      "shortDescription": "A pending trademark application reportedly shows the brand plans to sell home goods and preserved foods.",
+      "source": "https://www.bbc.co.uk/news/world-us-canada-68571184",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/5002/production/_132928402_ec38594dfd0b17037b0784405882ecb1330549010_126_4663_26234663x2623.jpg",
+      "createAt": "2024-03-14T19:38:30Z",
+      "content": "The Duchess of Sussex has launched what appears to be a new lifestyle brand, American Riviera Orchard.\r\nThe surprise unveiling was made on Thursday with a new Instagram account and web page containin… [+1546 chars]",
+      "category": [
+        1
+      ],
+      "id": "SmxSZSR"
+    },
+    {
+      "author": "Sarah Jackson",
+      "title": "Some of the designs for the Apple car reportedly looked like Volkswagens",
+      "shortDescription": "Several designs for the Apple car alternately took inspiration from a Volkswagen microbus and the Canoo Lifestyle Vehicle, according to Bloomberg.",
+      "source": "https://www.businessinsider.com/apple-car-design-might-have-looked-like-volkswagen-minibus-report-2024-3",
+      "thumbnail": "https://i.insider.com/65ef09b190413ab8e1db5192?width=1200&format=jpeg",
+      "createAt": "2024-03-11T17:28:15Z",
+      "content": "Not a real design for the Apple Car.Grafissimo/Getty, Apple, Tyler Le/BI\r\n<ul><li>Apple reportedly pulled the plug on its decade-long EV project last month.</li><li>Though we'll never see an Apple Ca… [+1910 chars]",
+      "category": [
+        1
+      ],
+      "id": "wq-e6SR"
+    },
+    {
+      "author": "Amanda Krause",
+      "title": "Meghan Markle is returning to her lifestyle roots with a mysterious new venture",
+      "shortDescription": "Before becoming the Duchess of Sussex, Meghan Markle ran a blog called The Tig. Now, she's seemingly back with a new digital lifestyle venture.",
+      "source": "https://www.businessinsider.com/meghan-markle-lifestyle-brand-american-riviera-orchard-2024-3",
+      "thumbnail": "https://i.insider.com/65f347963037f8e817508e89?width=1200&format=jpeg",
+      "createAt": "2024-03-14T19:48:12Z",
+      "content": "Meghan Markle in Düsseldorf, Germany, on September 6, 2022.Samir Hussein/WireImage\r\n<ul><li>Meghan Markle has launched a new website and Instagram page called American Riviera Orchard.</li><li>Fans s… [+1753 chars]",
+      "category": [
+        1
+      ],
+      "id": "CrBQwdX"
+    },
+    {
+      "author": "Kelly Beall",
+      "title": "Get Your Phil With This Outdoor Kitchen by Gordon Guillaumier for Ethimo",
+      "shortDescription": "Phil is an outdoor kitchen designed to connect us further with an outdoor lifestyle with its functionality as a sink, induction top, and grill.",
+      "source": "https://design-milk.com/get-your-phil-with-this-outdoor-kitchen-by-gordon-guillaumier-for-ethimo/",
+      "thumbnail": "https://design-milk.com/images/2024/03/Phil-Outdoor-Kitchen-Gordon-Guillaumier-Ethimo-1.jpg",
+      "createAt": "2024-03-20T13:00:01Z",
+      "content": "With little competition, I’ve met the cutest Phil out there! He’s fun, creative, and smart only Phil isn’t a human. It’s an outdoor kitchen designed by Gordon Guillaumier in collaboration with Ethimo… [+1708 chars]",
+      "category": [
+        1
+      ],
+      "id": "PL_WNru"
+    },
+    {
+      "author": "Huileng Tan",
+      "title": "Putin is promising Russians billions of dollars of lifestyle improvements — but it's unclear where all that money will come from",
+      "shortDescription": "Russian President Vladimir Putin has promised to boost the living standards of his countrymen with big new plans over the next six years.",
+      "source": "https://www.businessinsider.com/russia-economy-putin-promises-spending-birth-rate-infrsastructure-healthcare-elections-2024-3",
+      "thumbnail": "https://i.insider.com/65e531b2ce7f1785b2e5c2e8?width=1200&format=jpeg",
+      "createAt": "2024-03-04T08:43:36Z",
+      "content": "Russian President Vladimir Putin.Contributor via Getty Images\r\n<ul><li>At his state-of-the-nation address on Thursday, Putin pledged plans to improve living standards in Russia.</li><li>That includes… [+2219 chars]",
+      "category": [
+        1
+      ],
+      "id": "NVuQnrl"
+    },
+    {
+      "author": "Anna Gordon",
+      "title": "Fans Have a Theory About the Date Meghan Markle Chose to Launch Her New Venture",
+      "shortDescription": "The internet is abuzz with theories about Meghan Markle's brand new lifestyle brand, American Riviera Orchard.",
+      "source": "https://time.com/6957342/meghan-markle-american-riviera-orchard-launch-date-theory/",
+      "thumbnail": "https://api.time.com/wp-content/uploads/2024/03/GettyImages-1728281420.jpg?quality=85",
+      "createAt": "2024-03-15T16:08:23Z",
+      "content": "The internet is abuzz with theories about Meghan Markles brand new lifestyle company, American Riviera Orchard, which she announced the launch of on Thursday, Mar. 14. Per the companys trademark appl… [+1065 chars]",
+      "category": [
+        1
+      ],
+      "id": "GdIgD0l"
+    },
+    {
+      "author": null,
+      "title": "Brooklyn preacher known for flashy lifestyle found guilty of wire fraud and attempted extortion",
+      "shortDescription": null,
+      "source": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8da378ce-ccb4-4c8e-b2c4-15e4e6c1f705",
+      "thumbnail": null,
+      "createAt": "2024-03-12T01:51:22Z",
+      "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]",
+      "category": [
+        1
+      ],
+      "id": "awQfkBq"
+    },
+    {
+      "author": "Allie Kelly",
+      "title": "A millennial who quit her office job to live in a school bus explains what her lifestyle costs and how she makes 6 figures freelancing",
+      "shortDescription": "Alice Everdeen works multiple gigs to support her digital nomad life, but she only works a few hours each day and brings in six figures.",
+      "source": "https://www.businessinsider.com/millennial-makes-six-figures-freelancing-remotely-side-hustle-van-life2024-2",
+      "thumbnail": "https://i.insider.com/65e0b6cace7f1785b2e4f4f8?width=1200&format=jpeg",
+      "createAt": "2024-03-03T09:51:01Z",
+      "content": "Alice Everdeen, 32, has now spent over a year traveling the country in her school bus. She works remotely, and has doubled her previous office job salary.Alice Everdeen\r\n<ul><li>Alice Everdeen left h… [+4922 chars]",
+      "category": [
+        1
+      ],
+      "id": "URhPHH0"
+    },
+    {
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Fears lives are in danger due to firefighter shortage",
+      "shortDescription": "There are concerns fire services may not be able to respond quickly to rural blazes.",
+      "source": "https://www.bbc.co.uk/news/articles/c9x0x606pepo",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/05cd/live/6dfb3810-d68c-11ee-996c-713fa17d5c0e.jpg",
+      "createAt": "2024-02-28T22:56:26Z",
+      "content": "When self-confessed adrenaline junkie Nat Eddleston joined the fire service, it seemed like the perfect match, she told BBC Wales Live.\r\n The 38-year-old from Conwy said it felt like she was making a… [+1076 chars]",
+      "category": [
+        1
+      ],
+      "id": "xVfBjfC"
+    },
+    {
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Vogue's new editor says she has 'big shoes to fill'",
+      "shortDescription": "Chioma Nnadi replaces Edward Enninful, who broke boundaries at the fashion magazine.",
+      "source": "https://www.bbc.co.uk/news/entertainment-arts-68515448",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/13D4B/production/_132872218_gettyimages-1973270166.jpg",
+      "createAt": "2024-03-14T22:00:52Z",
+      "content": "Media caption, Chioma Nnadi speaks to BBC News\r\nChioma Nnadi, by her own admission, \"has big shoes to fill\".\r\nThe new head of British Vogue is replacing Edward Enninful, who spent more than six years… [+6505 chars]",
+      "category": [
+        2
+      ],
+      "id": "rwZu1B3"
+    },
+    {
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Stars turn on the style for Academy Awards",
+      "shortDescription": "The fashion is as important as the films at the glittering Hollywood award ceremony.",
+      "source": "https://www.bbc.co.uk/news/entertainment-arts-68530505",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/B49E/production/_132883264_e2d288eaa65503387ed7743afdaeb328ad9b092c.jpg",
+      "createAt": "2024-03-10T20:39:30Z",
+      "content": "The fashion is as important as the films at the Oscars, and the stars are turning on the style on the red carpet ahead of Sunday's film awards in Hollywood.\r\nFormer High School Musical star Vanessa H… [+992 chars]",
+      "category": [
+        2
+      ],
+      "id": "mzH8r14"
+    },
+    {
+      "author": null,
+      "title": "[Removed]",
+      "shortDescription": "[Removed]",
+      "source": "https://removed.com",
+      "thumbnail": null,
+      "createAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]",
+      "category": [
+        2
+      ],
+      "id": "vlrXNU1"
+    },
+    {
+      "author": "techkritiko@gmail.com (Jay Bonggolto)",
+      "title": "Samsung Galaxy Ring makes its first appearance at MWC 2024",
+      "shortDescription": "Forget chunky watches; Samsung's got your sleep-tracking fashion covered with the Galaxy Ring.",
+      "source": "https://www.androidcentral.com/wearables/samsung-galaxy-ring-showcase-at-mwc-2024",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/T9nPSZdJbihVQykGXfCAuM-1200-80.jpg",
+      "createAt": "2024-02-26T17:31:03Z",
+      "content": "<ul><li>The Galaxy Ring will be part of the Samsung Health ecosystem and is set to work seamlessly with the Galaxy Watch.</li><li>The battery size of the Galaxy Ring will vary based on its size, rang… [+2527 chars]",
+      "category": [
+        2
+      ],
+      "id": "leTJzm8"
+    },
+    {
+      "author": "Alexandra Bacon",
+      "title": "Tim Cook is an unexpected winner of Oscars fashion contest",
+      "shortDescription": "Apple CEO Tim Cook's Oscars tuxedo received high praise from popular menswear writer Derek Guy, beating other celebrities in the style contest.",
+      "source": "https://www.businessinsider.com/tim-cook-apple-oscars-outfit-best-dressed-fashion-menswear-blogger-2024-3",
+      "thumbnail": "https://i.insider.com/65ef0e1b6080194819fe9323?width=1200&format=jpeg",
+      "createAt": "2024-03-11T13:59:19Z",
+      "content": "Apple CEO Tim Cook.Jason Armond / Los Angeles Times via Getty Images\r\n<ul><li>A popular menswear blogger broke down some of the fashion highs and lows of the Oscars.</li><li>In the thread, Tim Cook's… [+1791 chars]",
+      "category": [
+        2
+      ],
+      "id": "EwLjA09"
+    },
+    {
+      "author": "ecrosbie@businessinsider.com (Eve Crosbie)",
+      "title": "The real story behind Coco Chanel's collaboration with the Nazis, as featured in 'The New Look'",
+      "shortDescription": "The controversial life story of the fashion designer is laid bare in the new Apple TV+ historical drama.",
+      "source": "https://www.businessinsider.com/the-new-look-real-story-coco-chanel-secret-nazi-agent-2024-3",
+      "thumbnail": "https://i.insider.com/65e201d590413ab8e1d8479b?width=1200&format=jpeg",
+      "createAt": "2024-03-03T11:14:43Z",
+      "content": "\"The New Look,\" Apple TV+'s new historical drama about the lives of France's leading mid-century fashion designers, offers a take on Coco Chanel that's never been committed to screen before.\r\nPreviou… [+6888 chars]",
+      "category": [
+        2
+      ],
+      "id": "Ovp0p9c"
+    },
+    {
+      "author": "Anna Goldwater Alexander",
+      "title": "‘Photographer’ Isn’t About Photography at All",
+      "shortDescription": "National Geographic’s new show, “Photographer,” doesn’t bother itself with analyzing images. It’s all about the drive it takes to find the ideal shot.",
+      "source": "https://www.wired.com/story/national-geographic-photographer-docuseries/",
+      "thumbnail": "https://media.wired.com/photos/65f48d2a01f4eb541f23030a/191:100/w_1280,c_limit/NatGeo_AnandVarmaHiddenWonders_102_Archive_Photographer_41.jpg",
+      "createAt": "2024-03-18T11:00:00Z",
+      "content": "Don't be fooled, National Geographic's new series Photographer isn't about analyzing images. Talk of lighting, depth of field, and good angles is minimal. Instead, it's an examination of what compels… [+1300 chars]",
+      "category": [
+        2
+      ],
+      "id": "DErOOTg"
+    },
+    {
+      "author": "akrause@insider.com (Amanda Krause)",
+      "title": "Steve Jobs' daughter Eve is a rising fashion star. Her latest gig is her edgiest yet.",
+      "shortDescription": "Eve Jobs, the daughter of Steve Jobs, is modeling for the fashion brand Enfants Riches Déprimés, which translates to Depressed Rich Kids in English.",
+      "source": "https://www.businessinsider.com/steve-jobs-daughter-leads-new-fashion-campaign-2024-3",
+      "thumbnail": "https://i.insider.com/65f06d746080194819ff0118?width=1200&format=jpeg",
+      "createAt": "2024-03-12T19:32:13Z",
+      "content": "It's time to get to know Eve Jobs.\r\nWhile the 25-year-old is widely known around the world as the daughter of late Apple cofounder Steve Jobs, she's also made a splash as a successful model.\r\nMost re… [+1853 chars]",
+      "category": [
+        2
+      ],
+      "id": "PZ2d9eS"
+    },
+    {
+      "author": "insider@insider.com (Matthew S. Smith)",
+      "title": "Fashion brands using AI to analyze trends could 'completely transform the creative process,' a consultant says",
+      "shortDescription": "The startups Spate and Fashable are using AI to identify fashion trends and shoppers' behaviors. That could help address fashion's waste problem.",
+      "source": "https://www.businessinsider.com/ai-fashion-trends-artificial-intelligence-style-brands-2024-2",
+      "thumbnail": "https://i.insider.com/65d76542a3bd891424f932cc?width=1200&format=jpeg",
+      "createAt": "2024-02-26T16:20:06Z",
+      "content": "Artificial intelligence looks poised to change fashion at blistering speed. A 2023 report from the management consultant McKinsey &amp; Company estimated that generative AI could add up to $275 billi… [+6246 chars]",
+      "category": [
+        2
+      ],
+      "id": "fdNnYiR"
+    },
+    {
+      "author": "Andrew Benson",
+      "title": "No transparency and accountability in F1 - Hamilton",
+      "shortDescription": "Lewis Hamilton says there is \"no transparency and no accountability\" in Formula 1 as the sport continues to be rocked by off-track wrangles.",
+      "source": "https://www.bbc.co.uk/sport/formula1/68623596",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_sport/6399/production/_132979452_gettyimages-2071524747.jpg",
+      "createAt": "2024-03-21T09:30:54Z",
+      "content": "Lewis Hamilton says there is \"no transparency and no accountability\" in Formula 1 as the sport continues to be rocked by off-track wrangles.\r\nThe seven-time champion appeared to conflate controversie… [+3332 chars]",
+      "category": [
+        3
+      ],
+      "id": "d8zV91a"
+    },
+    {
+      "author": "Laura Scott",
+      "title": "UK plans bid to host 2029 World Championships",
+      "shortDescription": "UK Sport and UK Athletics are planning to bid to host the 2029 World Championships.",
+      "source": "https://www.bbc.co.uk/sport/athletics/68463924",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_sport/11A64/production/_132829227_gettyimages-827719952.jpg",
+      "createAt": "2024-03-04T22:00:12Z",
+      "content": "UK Sport and UK Athletics are planning to bid to host the 2029 World Championships.\r\nLondon, and the UK, last hosted the event in 2017.\r\nA feasibility study needs to take place but BBC Sport has been… [+2034 chars]",
+      "category": [
+        3
+      ],
+      "id": "29eOtAY"
+    },
+    {
+      "author": "Laura Scott",
+      "title": "'What have I let myself in for?' Mum-to-be Rutter's Olympic bid",
+      "shortDescription": "British shooter Amber Rutter tells BBC Sport why she wants to chase Olympic gold three months after she is due to give birth.",
+      "source": "https://www.bbc.co.uk/sport/shooting/68657827",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_sport/14816/production/_133009938_rutter1.jpg",
+      "createAt": "2024-03-26T06:11:05Z",
+      "content": "\"When I found out I was pregnant instantly the fingers started going to work out how long I had until the Olympics.\" \r\nThe date on most Olympians' minds is 26 July - exactly four months from now, whe… [+4392 chars]",
+      "category": [
+        3
+      ],
+      "id": "er_bltQ"
+    },
+    {
+      "author": "Jonathan Jurejko",
+      "title": "Halep's doping ban reduced to nine months",
+      "shortDescription": "Two-time Grand Slam champion Simona Halep's four-year ban for doping is reduced to nine months by the Court of Arbitration for Sport [Cas].",
+      "source": "https://www.bbc.co.uk/sport/tennis/68420598",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_sport/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+      "createAt": "2024-03-05T15:26:02Z",
+      "content": "Two-time Grand Slam champion Simona Halep's four-year ban for doping has been reduced to nine months by the Court of Arbitration for Sport.\r\nThe decision means former world number one Halep can retur… [+135 chars]",
+      "category": [
+        3
+      ],
+      "id": "4S70Map"
+    },
+    {
+      "author": null,
+      "title": "India v England: Fifth Test, day one - text updates",
+      "shortDescription": "Follow live text updates from day one of the fifth Test between India and England in Dharamsala.",
+      "source": "https://www.bbc.co.uk/sport/live/cricket/67781543",
+      "thumbnail": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "createAt": "2024-03-06T15:31:35Z",
+      "content": "Dharamsala is this week's venue and judging from the England players' social media, it looks like an absolute stunner. \r\nI was lucky enough to visit Newlands in Cape Town last year and both are surel… [+419 chars]",
+      "category": [
+        3
+      ],
+      "id": "DDGy9lu"
+    },
+    {
+      "author": "Andrew Benson",
+      "title": "FIA president Ben Sulayem investigated for alleged race interference",
+      "shortDescription": "The president of motorsport's governing body is under investigation for an alleged attempt to interfere over a Formula 1 race result.",
+      "source": "https://www.bbc.co.uk/sport/formula1/68465516",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_sport/12C67/production/_132830967_gettyimages-2051260125.jpg",
+      "createAt": "2024-03-04T16:13:20Z",
+      "content": "Mohammed Ben Sulayem, president of motorsport's governing body the FIA, is under investigation for allegedly interfering over a Formula 1 race result.\r\nA whistleblower has told the FIA that Ben Sulay… [+1495 chars]",
+      "category": [
+        3
+      ],
+      "id": "p8WshdT"
+    },
+    {
+      "author": null,
+      "title": "Forest docked four points for financial rules breach",
+      "shortDescription": "Nottingham Forest receive an immediate four-point deduction for breaching Premier League profit and sustainability rules.",
+      "source": "https://www.bbc.co.uk/sport/football/68594865",
+      "thumbnail": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+      "createAt": "2024-03-18T14:34:55Z",
+      "content": "Nottingham Forest have been docked four points for breaching Premier League profit and sustainability rules, BBC Sport understands.\r\nThe immediate loss of points means Forest drop into the relegation… [+257 chars]",
+      "category": [
+        3
+      ],
+      "id": "ef30rJo"
+    },
+    {
+      "author": "Tom Reynolds",
+      "title": "Rider, runner, winner - the second coming of Meier",
+      "shortDescription": "Christian Meier rode as a domestique in all three Grand Tours - but locked down and retired, he found a new sporting obsession.",
+      "source": "https://www.bbc.co.uk/sport/cycling/68427968",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_sport/E360/production/_132780285_meier_mcmonagle.jpg",
+      "createAt": "2024-03-05T00:00:48Z",
+      "content": "Meier is back from leading his Girona group run now and is busy making a drink. \r\nWe're supposed to be discussing his running career but instead we're talking coffee.\r\nThe brew is delicious. It illus… [+4037 chars]",
+      "category": [
+        3
+      ],
+      "id": "jPKBahP"
+    },
+    {
+      "author": null,
+      "title": "Who will deliver the knockout blow in the title race?",
+      "shortDescription": "Our Football Focus pundits slug it out in the ring, with former Liverpool left-back Stephen Warnock in the red corner and former Man City centre-back Nedum Onuoha in the blue.",
+      "source": "https://www.bbc.co.uk/sport/av/football/68507799",
+      "thumbnail": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D4B8/production/_132865445_p0hhbbx6.jpg",
+      "createAt": "2024-03-08T06:54:29Z",
+      "content": "Two Football Focus heavyweights slug it out in the ring ahead of Sunday's big game, with former Liverpool left-back Stephen Warnock in the red corner and former Man City centre-back Nedum Onuoha in t… [+242 chars]",
+      "category": [
+        3
+      ],
+      "id": "csTJtO7"
+    },
+    {
+      "author": "Will Knight",
+      "title": "The AI Culture Wars Are Just Getting Started",
+      "shortDescription": "Google apologized after its Gemini model caused offense by being too “woke.” Expect political fights over AI’s values to worsen as the technology becomes more capable.",
+      "source": "https://www.wired.com/story/fast-forward-ai-culture-wars-just-getting-started/",
+      "thumbnail": "https://media.wired.com/photos/65dfa35b0a712b35e09d1358/191:100/w_1280,c_limit/AI-Chatbot-Culture-Wars-Business-1696009579.jpg",
+      "createAt": "2024-02-29T17:00:00Z",
+      "content": "Google was forced to turn off the image-generation capabilities of its latest AI model, Gemini, last week after complaints that it defaulted to depicting women and people of color when asked to creat… [+3844 chars]",
+      "category": [
+        4
+      ],
+      "id": "m9iDVFm"
+    },
+    {
+      "author": "Sabrina Weiss",
+      "title": "How to Stay Cool Without Warming the Planet",
+      "shortDescription": "The race is on to create climate-friendly air-con technology.",
+      "source": "https://www.wired.com/story/aircon-climate-co2-emissions/",
+      "thumbnail": "https://media.wired.com/photos/65b174a342a7a338235d6c5f/191:100/w_1280,c_limit/GettyImages-1233709080.jpg",
+      "createAt": "2024-03-20T03:45:09Z",
+      "content": "There is an insidious irony to climate change: as it gets hotter, more and more people are cranking up their air conditioners, which in turn contributes to global warming. Air conditioner (AC) sales … [+3114 chars]",
+      "category": [
+        4
+      ],
+      "id": "2ixsH-i"
+    },
+    {
+      "author": "Jon Porter",
+      "title": "Apple’s AI ambitions could include Google or OpenAI",
+      "shortDescription": "Apple has reportedly held discussions with Google to bring its Gemini generative AI technology to the iPhone and has also considered using OpenAI’s ChatGPT.",
+      "source": "https://www.theverge.com/2024/3/18/24104626/apple-license-google-gemini-generative-ai-openai-chatgpt",
+      "thumbnail": "https://cdn.vox-cdn.com/thumbor/AznF8_8PWIM-17iDULo4aihqkv8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931975/236794_iPhone_15_pro_pro_Max_VPavic_0019.jpg",
+      "createAt": "2024-03-18T09:30:34Z",
+      "content": "Apples AI ambitions could include Google or OpenAI\r\nApples AI ambitions could include Google or OpenAI\r\n / The iPhone-maker is in active talks to bring Gemini to the iPhone, and has also considered u… [+2452 chars]",
+      "category": [
+        4
+      ],
+      "id": "ZCnzCNv"
+    },
+    {
+      "author": "Isaac Schultz",
+      "title": "Seismic Rumble From an 'Alien Technology' Meteor Was Actually a Passing Truck, Scientists Say",
+      "shortDescription": "In January 2014, a meteor entered Earth’s atmosphere in the Western Pacific, as evidenced by apparent vibrational signatures of the event in a seismic station in Papua New Guinea. Last year, scientists declared rubble recovered from the ocean floor as the rej…",
+      "source": "https://gizmodo.com/rumble-alien-technology-meteor-actually-truck-2014-1851319770",
+      "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d4d834d2d9fab4f98907f9c1a8cf9eb1.jpg",
+      "createAt": "2024-03-08T18:22:00Z",
+      "content": "In January 2014, a meteor entered Earths atmosphere in the Western Pacific, as evidenced by apparent vibrational signatures of the event in a seismic station in Papua New Guinea. Last year, scientist… [+3648 chars]",
+      "category": [
+        4
+      ],
+      "id": "r8DsoQ0"
+    },
+    {
+      "author": null,
+      "title": "[Removed]",
+      "shortDescription": "[Removed]",
+      "source": "https://removed.com",
+      "thumbnail": null,
+      "createAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]",
+      "category": [
+        4
+      ],
+      "id": "eeuHJJq"
+    },
+    {
+      "author": "Hartley Charlton",
+      "title": "Apple Reportedly Testing AI-Powered Ad Technology",
+      "shortDescription": "Apple has begun testing a new AI-powered tool with a small group of advertisers that automatically decides where to place ads on the App Store, Business Insider reports.\n\n\n\n\n\nCiting two individuals familiar with the matter, Business Insider claims that the AI…",
+      "source": "https://www.macrumors.com/2024/03/12/apple-testing-ai-ad-tool/",
+      "thumbnail": "https://images.macrumors.com/t/fvnq7lgIjn-BQ5WsIW1FtaA-BEg=/2250x/article-new/2022/01/iOS-App-Store-General-Feature-Black.jpg",
+      "createAt": "2024-03-12T13:58:57Z",
+      "content": "Apple has begun testing a new AI-powered tool with a small group of advertisers that automatically decides where to place ads on the App Store, Business Insider reports.\r\nCiting two individuals famil… [+1106 chars]",
+      "category": [
+        4
+      ],
+      "id": "dcevqP2"
+    },
+    {
+      "author": null,
+      "title": "[Removed]",
+      "shortDescription": "[Removed]",
+      "source": "https://removed.com",
+      "thumbnail": null,
+      "createAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]",
+      "category": [
+        4
+      ],
+      "id": "_puV5RD"
+    },
+    {
+      "author": null,
+      "title": "[Removed]",
+      "shortDescription": "[Removed]",
+      "source": "https://removed.com",
+      "thumbnail": null,
+      "createAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]",
+      "category": [
+        4
+      ],
+      "id": "qFEwmEF"
+    },
+    {
+      "author": "Maxwell Zeff",
+      "title": "Google Launches $5 Million Competition to Figure Out What the Hell Quantum Computers Do",
+      "shortDescription": "If you’ve ever wondered what quantum computers actually do, you’re not alone. The truth is, no one knows what modern problems this technology can solve. Google launched a multi-year, global competition on Monday to find real-world use cases for quantum comput…",
+      "source": "https://gizmodo.com/google-launch-competition-figure-out-quantum-computers-1851308439",
+      "thumbnail": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b062849cff439ccbfb4f551a9e638551.jpg",
+      "createAt": "2024-03-05T15:50:00Z",
+      "content": "If youve ever wondered what quantum computers actually do, youre not alone. The truth is, no one knows what modern problems this technology can solve. Google launched a multi-year, global competition… [+2244 chars]",
+      "category": [
+        4
+      ],
+      "id": "V74deuQ"
+    },
+    {
+      "author": "The newyour",
+      "title": "Iran Smuggles Arms to West Bank, Officials Say, to Foment Unrest With Israel",
+      "source": "https://www.nytimes.com/2024/04/09/world/middleeast/iran-west-bank-weapons-smuggling.html",
+      "thumbnail": "https://static01.nyt.com/images/2024/03/26/multimedia/29iran-westbank-top/26mideast-crisis-syria-strikes-chmg-superJumbo.jpg",
+      "category": [
+        3
+      ],
+      "shortDescription": "The covert operation, described by U.S., Iranian and Israeli officials, is heightening concerns that Iran is seeking to turn the West Bank into a flashpoint in its shadow war with Israel.",
+      "content": "<div style='margin: 0px; padding: 0px; border: 0px; text-size-adjust: 100%; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-weight: 400; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: \"Times New Roman\"; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: rgb(51, 51, 51); letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;' id=\"isPasted\"><h1 data-testid=\"headline\" style='margin: 0px auto 0.5rem; padding: 0px; border: 0px; text-size-adjust: 100%; font-style: italic; font-variant: inherit; font-weight: 700; font-stretch: inherit; font-size: 2.5rem; line-height: 2.875rem; font-family: nyt-cheltenham, georgia, \"times new roman\", times, serif; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; vertical-align: baseline; color: var(--color-content-primary,#121212); text-align: left; width: 600px; max-width: none; position: relative;'>Iran Smuggles Arms to West Bank, Officials Say, to Foment Unrest With Israel</h1></div>",
+      "createdAt": "2024-04-09T15:57:28.228Z",
+      "id": "BfZZb13"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "users": [
+    {
+      "id": "1",
+      "username": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "2",
+      "username": "",
+      "password": "",
+      "email": ""
+    }
   ],
-  "profile": { "name": "typicode" }
+  "comment": [
+    {
+      "id": "1",
+      "userId": "1",
+      "dateCreate": "",
+      "content:": ""
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "lifestyle"
+    },
+    {
+      "id": "2",
+      "name": "fashion"
+    },
+    {
+      "id": "3",
+      "name": "sports"
+    },
+    {
+      "id": "4",
+      "name": "technology"
+    }
+  ]
 }
